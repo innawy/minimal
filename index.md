@@ -1,123 +1,31 @@
 ---
 layout: default
 ---
+### Hello 🤗
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+I am currently working as a research assistant at the University of Washington advised by Prof. Tim Althoff. I graduated from Columbia University with a B.A. in Mathematics and Cornell University with a M.Eng. in Computer Science. After college, I worked as a quantitative analyst in the financial industry.
 
-[Link to another page](./another-page.html).
+I am broadly interested in Natural Language Processing, AI/ML for Healthcare, and Computational Social Science. My past projects focused on using machine learning and causal inference in the context of social media and health. I am working towards building a healthy and just web and society.
 
-There should be whitespace between paragraphs.
+In my free time, I enjoy looking at magnificent architecture and interior design, learning new languages and instruments, and ((very) casually) playing any sports that involve human interactions.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+### Publication
 
-# Header 1
+[Towards Facilitating Empathic Conversations in Online Mental Health Support: A Reinforcement Learning Approach](https://arxiv.org/abs/2101.07714)
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Ashish Sharma, Inna W. Lin, Adam S. Miner, David C. Atkins, and Tim Althoff
 
-## Header 2
+The Web Conference (WWW), 2021
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+Role of Technology in Self-Assessment and Feedback Among Hospitalist Physicians: Semi-structured Interviews and Thematic Analysis
 
-### Header 3
+Andrew L. Yin*, Pargol Gheissari*, Inna W. Lin*, Michael Sobolev, John P Pollak, Curtis Cole, and Deborah Estrin 
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+Journal of Medial Internet Research (JMIR), Nov 2020 
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+Is Laughter the Best Medicine? Modeling the Role of Humor in Online Mental Health Communities
 
-#### Header 4
+Inna W. Lin, Yixin Chen, and Diyi Yang
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+In submission to CSCW 2021
 
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
