@@ -11,12 +11,12 @@ In my free time, I enjoy looking at magnificent architecture and interior design
 
 ### Publication
 
-[Towards Facilitating Empathic Conversations in Online Mental Health Support: A Reinforcement Learning Approach](https://arxiv.org/abs/2101.07714)
-Ashish Sharma, **Inna W. Lin**, Adam S. Miner, David C. Atkins, and Tim Althoff
+[Towards Facilitating Empathic Conversations in Online Mental Health Support: A Reinforcement Learning Approach](https://arxiv.org/abs/2101.07714)  
+Ashish Sharma, **Inna W. Lin**, Adam S. Miner, David C. Atkins, and Tim Althoff  
 The Web Conference (WWW), 2021
 
-[Role of Technology in Self-Assessment and Feedback Among Hospitalist Physicians: Semi-structured Interviews and Thematic Analysis](jmir.org/2020/11/e23299/citations)
-Andrew L. Yin=, Pargol Gheissari=, **Inna W. Lin=**, Michael Sobolev, John P Pollak, Curtis Cole, and Deborah Estrin 
+[Role of Technology in Self-Assessment and Feedback Among Hospitalist Physicians: Semi-structured Interviews and Thematic Analysis](jmir.org/2020/11/e23299/citations)  
+Andrew L. Yin=, Pargol Gheissari=, **Inna W. Lin=**, Michael Sobolev, John P Pollak, Curtis Cole, and Deborah Estrin  
 Journal of Medial Internet Research (JMIR), Nov 2020 
 
 
