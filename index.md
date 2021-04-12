@@ -9,7 +9,8 @@ I am broadly interested in Natural Language Processing, AI/ML for Healthcare, an
 
 In my free time, I enjoy looking at magnificent architecture and interior design, learning new languages and instruments, and ((very) casually) playing any sports that involve human interactions.
 
-### Publication
+### Publication  
+(=: equal contribution)
 
 [Towards Facilitating Empathic Conversations in Online Mental Health Support: A Reinforcement Learning Approach](https://arxiv.org/abs/2101.07714)  
 Ashish Sharma, **Inna W. Lin**, Adam S. Miner, David C. Atkins, and Tim Althoff  
