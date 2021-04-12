@@ -3,7 +3,7 @@ layout: default
 ---
 ### Hello 🤗
 
-I am currently working as a research assistant at the University of Washington advised by Prof. Tim Althoff. I graduated from Columbia University with a B.A. in Mathematics and Cornell University with a M.Eng. in Computer Science. After college, I worked as a quantitative analyst in the financial industry.
+I am currently working as a research assistant at the University of Washington advised by Prof. [Tim Althoff](http://timalthoff.de/). I graduated from Columbia University with a B.A. in Mathematics and Cornell University with a M.Eng. in Computer Science. After college, I worked as a quantitative analyst in the financial industry.
 
 I am broadly interested in Natural Language Processing, AI/ML for Healthcare, and Computational Social Science. My past projects focused on using machine learning and causal inference in the context of social media and health. I am working towards building a healthy and just web and society.
 
